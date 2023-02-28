@@ -1,1 +1,1 @@
-# example-private
+# example-public
